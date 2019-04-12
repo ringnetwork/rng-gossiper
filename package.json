@@ -1,27 +1,27 @@
 {
-	"name": "trustnote-pow-gossiper",
-	"description": "Trustnote PoW Gossiper",
+	"name": "rng-gossiper",
+	"description": "RingNetwork PoW Gossiper",
 	"author": "Liu Qixing",
 	"version": "1.0.0",
 	"keywords": [
-		"trustnote",
+		"ringnetwork",
 		"pow",
 		"multisignature",
 		"network",
 		"gossiper"
 	],
-	"homepage": "https://github.com/trustnote/trustnote-pow-gossiper",
+	"homepage": "https://github.com/ringnetwork/rng-gossiper",
 	"engines": {
 		"node": ">=0.10.0"
 	},
 	"main": "js/index.js",
 	"license": "MIT",
 	"repository": {
-		"url": "https://github.com/trustnote/trustnote-pow-gossiper.git",
+		"url": "https://github.com/ringnetwork/rng-gossiper.git",
 		"type": "git"
 	},
 	"bugs": {
-		"url": "https://github.com/trustnote/trustnote-pow-gossiper/issues"
+		"url": "https://github.com/ringnetwork/rng-gossiper/issues"
 	},
 	"browser": {
 		"request": "browser-request",
